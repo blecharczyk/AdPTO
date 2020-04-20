@@ -1,0 +1,3 @@
+Dzień dobry,
+mój kiepski wynik w konkursie był spowodowany tym, że puściłem program aby rozwiązywał się dladużych grafów, jednak mia on wtedy błąd. Nie zwróciłem uwagi na miejsce, w któym naprawiamy graf po jego zepsuciu. Gdy zorietowałem się, że moje rozwiązanie nie jest poprawne, zostało bardzo niewiele czasu do deadline'u. Udało się jednak rozwiązać problem i sprawdzić działanie dla parunastu grafów - teraz program działa okej.
+Krzysztof Blecahrczyk
